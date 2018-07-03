@@ -1,3 +1,2 @@
-# shardingJdbc
-SpringBoot 使用sharding jdbc进行分库分表
-test
+# springboot-shardingjdbc
+使用spring boot+sharding-jdbc+mybatis 实现分库分表
